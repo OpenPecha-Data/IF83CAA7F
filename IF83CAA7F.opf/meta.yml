@@ -1,0 +1,33 @@
+id: IF83CAA7F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:29:48.175448'
+last_modified: '2022-05-31T05:29:48.175453'
+parser: null
+source_metadata:
+  title: Ngawang Samten Lodrö Series
+  language: bo
+  description: 'Texts by and about Khenchen Ngawang Samten Lodrö (ngag dbang bsam
+    gtan blo gros, 1868–1931):'
+  volume:
+    fBA84:
+      title: 'The Radiant Treasure of Blessings: A Guru Yoga of the Great Vajradhara
+        Ngawang Samten Lodrö'
+      base_file: fBA84.txt
+      order: 1
+      parent: Guru Yoga
+    fFEFD:
+      title: 'The Swift Infusion of Blessings: A Lament and Prayer to Invoke the Wisdom
+        Mind of Khenchen Vāgindra on the Occasion of His Passing into the Great Peace
+        of the Dharmadhātu'
+      base_file: fFEFD.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
